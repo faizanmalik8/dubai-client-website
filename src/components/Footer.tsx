@@ -15,7 +15,7 @@ export default function Footer() {
               <Image src="/LOGO.webp" alt="IPTV Dubai" width={150} height={50} />
             </Link>
             <p className={styles.desc}>
-              StreamHub Dubai offers the ultimate 4K IPTV subscription for the whole UAE.
+              IPTV Dubai 4K offers the ultimate 4K IPTV subscription for the whole UAE.
               Enjoy 32,000+ live channels, sports, movies, and VODs without buffering.
             </p>
             <div className={styles.socials}>
